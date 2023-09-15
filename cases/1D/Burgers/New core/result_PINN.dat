@@ -1,0 +1,168 @@
+###########nnode: 11 ########### 
+L2 error: 7.049902e-03
+L2 error: 6.415278e-03
+L2 error: 6.052306e-03
+L2 error: 2.806117e-03
+L2 error: 3.545931e-03
+L2 error: 1.177515e-02
+L2 error: 3.793592e-02
+L2 error: 3.269972e-03
+L2 error: 3.256755e-03
+L2 error: 1.698913e-02
+L2 error: 3.449514e-03
+L2 error: 1.731749e-02
+L2 error: 1.127168e-02
+L2 error: 1.997747e-03
+L2 error: 2.180512e-02
+L2 error: 1.226316e-02
+L2 error: 2.886587e-02
+L2 error: 7.348059e-03
+L2 error: 1.708029e-02
+L2 error: 5.507568e-03
+Linf ave, top, bottom 2.707797e-02 9.081935e-02 4.965549e-03
+L2 ave, top, bottom: 1.130015e-02 3.793592e-02 1.997747e-03 
+L2_smooth ave, top, bottom: 1.184184e-02 3.978440e-02 2.088117e-03 
+L2_shoc _ave, top, bottom: 8.021198e-04 3.923416e-03 2.264977e-06 
+loss ave, top, bottom: 1.991265e-05 2.135381e-04 2.755012e-06 
+
+ train_time: 2.543048e+00
+###########nnode: 21 ########### 
+L2 error: 3.277718e-03
+L2 error: 1.802878e-03
+L2 error: 1.645306e-03
+L2 error: 1.417639e-03
+L2 error: 2.272155e-03
+L2 error: 2.183835e-03
+L2 error: 2.069314e-03
+L2 error: 5.765256e-03
+L2 error: 3.318707e-03
+L2 error: 2.302230e-03
+L2 error: 1.438397e-03
+L2 error: 4.354910e-03
+L2 error: 6.149469e-04
+L2 error: 5.291019e-03
+L2 error: 2.268678e-03
+L2 error: 2.330232e-03
+L2 error: 1.201965e-03
+L2 error: 7.218855e-03
+L2 error: 3.006510e-03
+L2 error: 3.457333e-03
+Linf ave, top, bottom 1.120292e-02 3.231715e-02 2.035567e-03
+L2 ave, top, bottom: 2.861894e-03 7.218855e-03 6.149469e-04 
+L2_smooth ave, top, bottom: 2.914445e-03 7.393894e-03 5.469021e-04 
+L2_shoc _ave, top, bottom: 9.306123e-04 4.246235e-03 4.440546e-05 
+loss ave, top, bottom: 2.860518e-05 2.493961e-04 3.384685e-06 
+
+ train_time: 3.438916e+00
+###########nnode: 41 ########### 
+L2 error: 4.516522e-03
+L2 error: 1.557148e-03
+L2 error: 3.694083e-03
+L2 error: 1.823294e-03
+L2 error: 2.445178e-03
+L2 error: 1.647397e-03
+L2 error: 8.572829e-04
+L2 error: 9.576133e-04
+L2 error: 2.089708e-03
+L2 error: 1.287604e-03
+L2 error: 6.166833e-04
+L2 error: 2.689070e-03
+L2 error: 9.802023e-04
+L2 error: 5.624962e-03
+L2 error: 9.416845e-04
+L2 error: 1.392116e-03
+L2 error: 2.770744e-03
+L2 error: 4.962005e-03
+L2 error: 2.475083e-03
+L2 error: 1.033962e-03
+Linf ave, top, bottom 1.210888e-02 3.486796e-02 3.368036e-03
+L2 ave, top, bottom: 2.218117e-03 5.624962e-03 6.166833e-04 
+L2_smooth ave, top, bottom: 1.538859e-03 4.018079e-03 3.161510e-04 
+L2_shoc _ave, top, bottom: 6.454340e-03 2.468628e-02 5.019396e-04 
+loss ave, top, bottom: 4.727433e-05 3.971171e-04 5.170996e-06 
+
+ train_time: 4.702612e+00
+###########nnode: 81 ########### 
+L2 error: 1.914556e-03
+L2 error: 1.242176e-03
+L2 error: 1.194842e-03
+L2 error: 1.667375e-03
+L2 error: 1.228233e-03
+L2 error: 1.133773e-03
+L2 error: 9.994687e-04
+L2 error: 1.861958e-03
+L2 error: 8.900911e-04
+L2 error: 1.009238e-03
+L2 error: 8.221323e-04
+L2 error: 5.511766e-03
+L2 error: 1.232288e-03
+L2 error: 1.025985e-03
+L2 error: 5.544550e-03
+L2 error: 9.305791e-04
+L2 error: 2.848049e-03
+L2 error: 3.533653e-03
+L2 error: 3.302001e-03
+L2 error: 1.826389e-03
+Linf ave, top, bottom 1.460776e-02 4.963162e-02 3.451347e-03
+L2 ave, top, bottom: 1.985955e-03 5.544550e-03 8.221323e-04 
+L2_smooth ave, top, bottom: 6.992296e-04 1.699706e-03 2.302734e-04 
+L2_shoc _ave, top, bottom: 8.068084e-03 2.483679e-02 2.302859e-03 
+loss ave, top, bottom: 7.566073e-05 6.421382e-04 1.481298e-05 
+
+ train_time: 6.051931e+00
+###########nnode: 161 ########### 
+L2 error: 7.630447e-04
+L2 error: 1.111514e-03
+L2 error: 1.840530e-03
+L2 error: 2.550273e-03
+L2 error: 8.132615e-04
+L2 error: 6.921871e-04
+L2 error: 1.694919e-03
+L2 error: 7.400705e-04
+L2 error: 4.462696e-03
+L2 error: 1.362617e-03
+L2 error: 5.312312e-04
+L2 error: 5.780762e-04
+L2 error: 2.052196e-03
+L2 error: 8.944743e-03
+L2 error: 2.124057e-03
+L2 error: 1.674410e-03
+L2 error: 1.825016e-03
+L2 error: 9.803332e-04
+L2 error: 3.287082e-03
+L2 error: 2.037757e-03
+Linf ave, top, bottom 1.821717e-02 1.123401e-01 3.162634e-03
+L2 ave, top, bottom: 2.003301e-03 8.944743e-03 5.312312e-04 
+L2_smooth ave, top, bottom: 1.043448e-03 2.550430e-03 3.153556e-04 
+L2_shoc _ave, top, bottom: 6.997841e-03 3.975064e-02 1.693669e-03 
+loss ave, top, bottom: 2.841518e-04 1.366448e-03 2.588663e-05 
+
+ train_time: 7.989926e+00
+###########nnode: 321 ########### 
+L2 error: 7.934329e-04
+L2 error: 1.037538e-03
+L2 error: 7.045565e-04
+L2 error: 8.236187e-03
+L2 error: 1.194812e-03
+L2 error: 1.493875e-03
+L2 error: 2.743800e-02
+L2 error: 1.254349e-03
+L2 error: 2.425586e-02
+L2 error: 1.508325e-03
+L2 error: 1.161203e-03
+L2 error: 1.065890e-03
+L2 error: 1.890492e-03
+L2 error: 2.313823e-03
+L2 error: 1.527788e-03
+L2 error: 8.772873e-04
+L2 error: 1.355299e-03
+L2 error: 1.075631e-03
+L2 error: 1.918510e-03
+L2 error: 1.004899e-03
+Linf ave, top, bottom 2.113510e-02 1.219296e-01 2.992615e-03
+L2 ave, top, bottom: 4.105388e-03 2.743800e-02 7.045565e-04 
+L2_smooth ave, top, bottom: 2.924378e-03 1.802974e-02 6.103145e-04 
+L2_shoc _ave, top, bottom: 1.267101e-02 9.437824e-02 1.207167e-03 
+loss ave, top, bottom: 1.490384e-03 1.133606e-02 9.904222e-05 
+
+ train_time: 1.546342e+01
